@@ -130,7 +130,7 @@ Pthreads 定义了一套 C 程序语言类型、函数与常量，它以 pthread
     <td>对两个线程的线程标识号进行比较</td>
   </tr>
   <tr>
-    <td>pthread_detac</td>
+    <td>pthread_detach</td>
     <td>分离线程</td>
   </tr>
   <tr>
